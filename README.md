@@ -11,7 +11,7 @@ Bad  - as Netflix faces lawsuit over the movie for trademark infringement, false
 <ol><li>Using external library (with python)
   <ol><li>Using each words to determine overall sentiment
     <li>Using each tweets to determine overall sentiment</ol>
-  <li>Using NLTK SentimentIntensityAnalyzer
+  <li>Using NLTK SentimentIntensityAnalyzer</ol>
 
 <br><b>
 References:</b><br>
