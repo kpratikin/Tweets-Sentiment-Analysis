@@ -13,6 +13,7 @@ Sentiment Analysis is done on the word 'Bandersnatch' to gauge latest public sen
     <li>Using each tweets to determine overall sentiment</ol>
   <li>Using NLTK SentimentIntensityAnalyzer</ol>
 
+<br><b>Code:</b> Refer ipynb file- https://github.com/kpratikin/Tweets-Sentiment-Analysis/blob/master/Sentiment%20Analysis_G.ipynb
 <br><b>
 References:</b><br>
 The files containing positive and negative word are downloaded from the website "http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html". The lexicon file is part of below research papers. <br>
