@@ -3,8 +3,8 @@ Sentiment Analysis is done on the word 'Bandersnatch' to gauge latest public sen
 
 <br><b>Context:</b><br>
 <a href='https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch'>Bandersnatch</a> is a psychological thriller interactive film released on December 28, 2018 by Netflix. Since then it is trending in social media for good and bad reason. 
-Good - for an innovative step of interactive content, thriller story and 
-Bad  - as Netflix faces lawsuit over the movie for trademark infringement, false designation of origin, unfair competition and trademark diluation.
+<br><b>Good</b> - for an innovative step of interactive content, thriller story and 
+<br><b>Bad</b>  - as Netflix faces lawsuit over the movie for trademark infringement, false designation of origin, unfair competition and trademark diluation.
 <br>
 <br>
 <b>Methods used:<br></b>
