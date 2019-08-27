@@ -7,11 +7,6 @@ Sentiment Analysis is done on the word 'Bandersnatch' to gauge latest public sen
 <br><b>Bad</b>  - as Netflix faces lawsuit over the movie for trademark infringement, false designation of origin, unfair competition and trademark diluation.
 <br>
 <br>
-<b>Methods used:<br></b>
-<ol><li>Using external library (with python)
-  <ol><li>Using each words to determine overall sentiment
-    <li>Using each tweets to determine overall sentiment</ol>
-  <li>Using NLTK SentimentIntensityAnalyzer</ol>
 
 <br><b>Code:</b> Refer ipynb file- https://github.com/kpratikin/Tweets-Sentiment-Analysis/blob/master/Sentiment%20Analysis_G.ipynb
 <br><b>
